@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GUI.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="GUI.Form1.DialogueEngine">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="GUI.Form1.DialogueEngine.DialogueAnswer" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Form1.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+          <Class Name="GUI.Form1.DialogueEngine.Dialogue" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Form1.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+          <Class Name="GUI.Form1.DialogueEngine.Player" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Form1.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+          <Class Name="GUI.Form1.DialogueEngine.MerchantDialogue" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Form1.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+          <Class Name="GUI.Form1.DialogueEngine.FrogDialogue" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Form1.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+          <Class Name="GUI.Form1.DialogueEngine.DialogueEngineVisual" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Form1.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="GUI.Form1.Merchant" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="GUI.Form1.Frog" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="GUI.Form1.Engine_GUI" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="GUI.Form1.Properties_GUI" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAUAgJAAQSAgABCEAkCIQiACAAAQCAAAAQAAACAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
