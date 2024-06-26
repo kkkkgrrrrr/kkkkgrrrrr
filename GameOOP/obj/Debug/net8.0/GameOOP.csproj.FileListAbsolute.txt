@@ -1,0 +1,15 @@
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.csproj.ResolveComReference.cache
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.AssemblyInfoInputs.cache
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.AssemblyInfo.cs
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.csproj.CoreCompileInputs.cache
+E:\gameProject\GameOOP\bin\Debug\net8.0\GameOOP.exe
+E:\gameProject\GameOOP\bin\Debug\net8.0\GameOOP.deps.json
+E:\gameProject\GameOOP\bin\Debug\net8.0\GameOOP.runtimeconfig.json
+E:\gameProject\GameOOP\bin\Debug\net8.0\GameOOP.dll
+E:\gameProject\GameOOP\bin\Debug\net8.0\GameOOP.pdb
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.dll
+E:\gameProject\GameOOP\obj\Debug\net8.0\refint\GameOOP.dll
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.pdb
+E:\gameProject\GameOOP\obj\Debug\net8.0\GameOOP.genruntimeconfig.cache
+E:\gameProject\GameOOP\obj\Debug\net8.0\ref\GameOOP.dll

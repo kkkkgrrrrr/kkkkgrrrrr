@@ -1,0 +1,9 @@
+healthPoints, 50
+coins, 1
+numberOfField, 2
+InDialogue, False
+dirOfMove, 
+playerActualX, 161
+playerActualY, 39
+playerNextX, 0
+playerNextY, 0
